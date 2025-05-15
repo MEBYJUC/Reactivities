@@ -7,10 +7,6 @@ A full-stack CRUD application built with:
 - **React.js frontend (planned integration)**
 - **Domain-Driven Design (DDD) structure**
 
-
-
-
-
 ## 📁 Project Structure
 
 Reactivities/
@@ -19,18 +15,12 @@ Reactivities/
 ├── Domain/ # Entity models
 ├── Persistence/ # EF Core DbContext and Migrations
 
-
----
-
-
 ## 🧪 Features
 
 - Activity management (Create, Read, Update, Delete)
 - Clean architecture
 - EF Core migrations and data seeding
 - Auto-applied migrations on startup
-
----
 
 
 ## 🛠️ How to Run
